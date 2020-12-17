@@ -6,16 +6,16 @@ python 3.7.1
 Keras 2.4.3
 
 # Necessary Modules
-numpy
-json - loading data
-sys
-joblib
-csv - opening other datasets
-re - text cleaning
-spacy - alternative tokenization
+- numpy
+- json \- loading data
+- sys
+- joblib
+- csv - opening other datasets
+- re - text cleaning
+- spacy - alternative tokenization
 
-sklearn
-keras
+- sklearn
+- keras
 
 # usage
 ```
